@@ -1,0 +1,116 @@
+.orange-highlight{
+    font-size: 50px;
+    color: rgb(83, 139, 19);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.link-button{
+    text-decoration: none;
+   background-image: linear-gradient(45deg,lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+ 
+.Imgs{
+    width: 100%;
+    padding:10px;
+    display: inline;
+    margin-left: center;
+
+}
+.do{
+width: 30%;
+float:left;
+margin-left: 10px;
+margin-right: 1px;
+margin-bottom: 50px;
+border: solid  1px;
+padding: 1px;
+display: inline;
+}
+.new-work{
+    width: 40%;
+    font-size: xx-large;
+    text-align: middle center;
+    padding-left: 5%;
+    font-weight: 700;
+    margin-left:450px;
+    margin-bottom: 50px;
+    
+}
+#digit{
+    margin-bottom: 500px;
+}
+.opinion{
+    width: 40%;
+    font-size: xx-large;
+    margin-left: 400px;
+}
+}
+.button{
+    text-decoration: none;
+   background-image: linear-gradient
+    padding: 20px 20px;
+    border-radius: 20px;
+    color: white;
+    font-weight: 700;
+}
+.outnoumber{
+    font-weight: lighter;
+    font-weight: 700;
+    clear: right;
+}
+.name{
+    margin-left: 550px;
+}
+
+.her{
+    margin-bottom: 100px;
+}
+.man{
+    margin-left: 300px;
+}
+.name-one{
+    margin-left: 350px;
+}
+.love{
+    font-size: 20px;
+    font-weight: 700;
+}
+.name-two{
+    font-size: xx-large;
+    margin-left: 500px;
+}
+.experience-area{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stuck{
+    border-left: 7px solid;
+    border-image: liner-gradient(180deg,blueviolet, tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: liner-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    margin-bottom: 50px;
+}
+#space-bull{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+    
